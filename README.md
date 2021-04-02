@@ -35,3 +35,8 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+# 2021 四月
+## 1
+这几天想用nw.js写一个可以快速加载几十M的图片的图片查看器。但是失败了，每张图总会有200~400ms的decode时间，造成卡顿，而我本来就是为了减少这个卡顿才想去写图片查看器。或许我的方向错了，图片大了应该更换更先进的图片格式avif
